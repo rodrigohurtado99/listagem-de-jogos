@@ -1,0 +1,31 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    padding: 1.5em;
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+.menu-detalhe{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "one two";
+    width: 70%;
+    background-color: #f8f2f2;
+    padding: 1em;
+    box-shadow: 1px 1px 1px 2px;
+}
+h1{
+    font-size: 27px;
+}
+img{
+    grid-area: one;
+}
+article{
+    grid-area: two;
+}
+svg{
+    width: 30px;
+    height: 30px;
+}

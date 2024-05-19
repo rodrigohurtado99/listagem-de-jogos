@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1em;
+    background-color: grey;
+}
+.engloba{
+    background-color: rgb(229, 225, 225);
+    max-width: 80%;
+    margin: auto;
+    padding: 2em;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    border-style: groove;
+    
+}
+.Nav-bar{
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+}
+ul li{
+    display: inline-block;
+}
+main div{
+    padding: 1em;
+}
+.grey{ 
+    background-color: rgb(182, 179, 179);
+}
+

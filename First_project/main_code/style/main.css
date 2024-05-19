@@ -1,0 +1,80 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Times New Roman', Times, serif;
+}
+body{
+    padding: 1.5em;
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+.usuario{
+    display: flex;
+    justify-content:right;
+}
+main{
+    background-color: #f8f2f2;
+    padding: 1.5em;
+    width: 80%;
+    max-width: 100%;
+    box-shadow: 1px 1px 1px 2px;
+}
+article{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    max-width: 100%;
+}
+article .admin-buttons{
+    align-self: center;
+}
+.admin-buttons a{
+    padding: 4px;
+}
+img{
+    padding: 4px;
+}
+
+.grey{
+    background-color: rgba(128, 128, 128, 0.53);
+}
+.nav-bar{
+    display: flex;
+    justify-content: right;
+}
+aside{
+    display: flex;
+}
+.alinha{
+    display: block;
+    margin: 1em;
+}
+p, label{
+    font-size: 14px;
+}
+ul li{
+    display: inline-block;
+    justify-content: right;
+}
+li a{
+    font-size: 14px;
+}
+.acesso{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    align-self: 1em;
+}
+.acesso input{
+    margin: .5em;
+}
+.acesso label{
+    margin-left: 2px;
+}
+
+svg{
+    width: 20px;
+    height: 20px;
+}
+a .add{
+    padding-left: 1em;
+}
