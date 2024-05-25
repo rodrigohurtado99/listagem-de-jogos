@@ -1,5 +1,14 @@
-Projeto ainda em fase de testes
+# Listagem de Jogos
 
-Um simples CRUD, onde consegue listar jogos, ver detalhes e informações.
+* Um simples CRUD, onde consegue listar jogos, ver detalhes e informações.
 
-E Até mesmo fazer atualizações, como editar um jogo, cadastrar um novo, e apagar do banco.
+
+
+  Projeto ainda em faze de testes...
+
+
+## Funcionalidades
+
+- Listar por nome, distribuidora, avaliação (baixa, alta)
+- Detalhes e informações sobre o game
+- Funções de administrador, como cadastrar, editar e remover
