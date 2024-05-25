@@ -1,4 +1,4 @@
-. Projeto ainda em fase de testes
+Projeto ainda em fase de testes
 
 Um simples CRUD, onde consegue listar jogos, ver detalhes e informações.
 
