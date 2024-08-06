@@ -1,6 +1,6 @@
 # Listagem de Jogos
 
-* Um simples CRUD, onde consegue listar jogos, ver detalhes e informações.
+* Um simples CRUD, onde consegue se listar jogos, ver detalhes e informações.
 * Observação: Projeto ainda em fase de desenvolvimento, novos módulos e métodos sendo incluidos
 
 ## Funcionalidades
